@@ -11,7 +11,7 @@ last_name: Li
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🤖
 
 # Is this the primary user of the site?
 superuser: true
@@ -72,10 +72,10 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: ''
+    institution: ''
+    date_start: ''
+    date_end: ''
     summary: |
       GPA: 3.4/4.0
       
@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-I am currently a Research Robotics Engineer in the Department of Biomedical Engineering at the National University of Singapore. My research interests are in robotics, haptics and human-robot interaction. I am currently working on the development of haptic feedback devices based on soft electrohydraulic actuators and AC electroadhesion vibration mechanisms. 
+I am currently a Robotics Research Engineer in the Department of Biomedical Engineering at the National University of Singapore. My research interests are in robotics, haptics and human-robot interaction. I am currently working on the development of haptic feedback devices based on soft electrohydraulic actuators and AC electroadhesion vibration mechanisms. 
