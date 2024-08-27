@@ -33,12 +33,12 @@ profiles:
   - icon: at-symbol
     url: 'li_dannuo@u.nus.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  - icon: ''
+    url: ''
+  - icon: ''
+    url: ''
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/C1inkzzzZ
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/dannuo-li-687238276/
   - icon: academicons/google-scholar
