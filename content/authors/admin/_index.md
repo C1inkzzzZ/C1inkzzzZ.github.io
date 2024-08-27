@@ -31,12 +31,8 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:li_dannuo@u.nus.edu'
+    url: "mailto: e0978500@u.nus.edu"
     label: E-mail Me
-#  - icon: ''
-#    url: ''
-#  - icon: ''
-#    url: ''
   - icon: brands/github
     url: https://github.com/C1inkzzzZ
   - icon: brands/linkedin
@@ -68,17 +64,6 @@ education:
     summary: |
       GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: ''
-    institution: ''
-    date_start: ''
-    date_end: ''
-    summary: |
-      GPA: 3.4/4.0
-      
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
