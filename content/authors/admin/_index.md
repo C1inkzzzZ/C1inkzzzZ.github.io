@@ -31,12 +31,12 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: li_dannuo@u.nus.edu
+    url: 'mailto:li_dannuo@u.nus.edu'
     label: E-mail Me
-  - icon: ''
-    url: ''
-  - icon: ''
-    url: ''
+#  - icon: ''
+#    url: ''
+#  - icon: ''
+#    url: ''
   - icon: brands/github
     url: https://github.com/C1inkzzzZ
   - icon: brands/linkedin
