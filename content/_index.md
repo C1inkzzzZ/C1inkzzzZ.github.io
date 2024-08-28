@@ -32,14 +32,13 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 My Research Ambitions'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I enjoy exploring innovative actuator mechanisms and applying them in the field of human-robot interaction.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        Currently I am advancing the development of VR glove with hybrid haptic feedback capabilities based on electroadhesion vibration mechanisms.
+
     design:
       columns: '1'
   - block: collection
