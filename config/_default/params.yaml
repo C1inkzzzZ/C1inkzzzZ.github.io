@@ -35,10 +35,10 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "Dannuo Li"
 
 # Site footer
-footer:
+footer:S
   copyright:
     notice: '© {year} Me. This work is licensed under {license}'
     license:
