@@ -38,7 +38,7 @@ header:
       text: "Dannuo Li"
 
 # Site footer
-footer:S
+footer:
   copyright:
     notice: '© {year} Me. This work is licensed under {license}'
     license:
