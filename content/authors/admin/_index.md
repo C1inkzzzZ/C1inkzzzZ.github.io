@@ -168,4 +168,4 @@ awards:
 
 ## About Me
 
-I am currently a Robotics Research Engineer in the Department of Biomedical Engineering at the National University of Singapore. My research interests are in robotics, haptics and human-robot interaction. I am currently working on the development of haptic feedback devices based on soft electrohydraulic actuators and AC electroadhesion vibration mechanisms. 
+I am currently a Robotics Research Engineer in the Department of Biomedical Engineering at the National University of Singapore. My research interests focus on robotics, haptics, and human-robot interaction. Presently, I am developing haptic feedback devices that utilize soft electrohydraulic actuators and AC electroadhesion vibration mechanisms.

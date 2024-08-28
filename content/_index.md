@@ -32,12 +32,12 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research Ambitions'
+      title: '📚 My Research'
       subtitle: ''
       text: |-
-        I enjoy exploring innovative actuator mechanisms and applying them in the field of human-robot interaction.
+        I enjoy exploring innovative actuator mechanisms and applying them to the field of human-robot interaction.
 
-        Currently I am advancing the development of VR glove with hybrid haptic feedback capabilities based on electroadhesion vibration mechanisms.
+        Currently, I am working on advancing the development of a VR glove with hybrid haptic feedback capabilities, utilizing electroadhesion vibration mechanism.
 
     design:
       columns: '1'
