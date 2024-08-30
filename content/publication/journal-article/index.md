@@ -20,7 +20,7 @@ publication_types: ["Conference"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Workshop in IEEE 7th International Conference on Soft Robotics"
-publication_short: "Workshop in Robosoft"
+publication_short: "Workshop in IEEE Robosoft"
 
 abstract: Soft pneumatic actuators with integrated strainlimiting layers have emerged as predominant components in the field of soft gripper technology for several decades. However, owing to their intrinsic strain-limiting layer design, these soft grippers possess a singular gripping functionality, rendering them incapable of adapting to diverse gripping tasks with different strategies. Based on our previous work, we introduce a novel soft gripper that offers variable stiffness, an adjustable gripping range, and multifunctionality. The MASH actuatorbased soft gripper can expand its gripping range up to threefold compared to the original configuration and ensures secure grip by enhancing stiffness when handling heavy objects. Moreover, it supports multitasking gripping through specific gripping strategy control.
 
