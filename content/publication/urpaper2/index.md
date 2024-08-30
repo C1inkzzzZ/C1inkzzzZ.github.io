@@ -1,13 +1,14 @@
 ---
-title: "EA-SoGripper: Electroadhesion-Stiffening Self-Adaptive Soft Robotic Gripper"
+title: "Electrohydraulic Jammed Variable Stiffness Robotic Link"
 authors:
 - Q.Xiong*
+- X.Zhou*
 - Dannuo Li*
 - et.al.
 author_notes:
 - ""
 - ""
-date: "2024-06-23T00:00:00Z"
+date: "2024-06-22T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,16 +20,16 @@ publishDate: "2024-08-30T00:00:00Z"
 publication_types: ["Under Review"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE Transactions on Mechatronics (Under review)"
-publication_short: "IEEE TMECH (Under review)"
+publication: "Soft Robotics (Under review)"
+publication_short: "SoRo (Under review)"
 
-abstract: The Electroadhesion-Stiffening Self-Adaptive Soft Robotic Gripper (EA-SoGripper) introduced in this article addresses the limitations of traditional rigid robotic grippers by offering enhanced adaptability to objects of varying shapes, sizes, weights, and stiffness. Leveraging flexible electroadhesion (EA) clutches, the EA-SoGripper adjusts the tension of films to conform to the shape of grasped objects and regulate grasping stiffness through applied voltage control. A novel mathematical model of the gripper's load capacity with different grasping stiffness levels provides valuable insight into its performance capabilities. To ensure grasp safety and precision, the EA-SoGripper integrates a real-time force sensor for monitoring grasping power and deploys a feedback control algorithm to regulate force accurately. Furthermore, a portable and cost-effective AC high-voltage power supply system is developed, enhancing the gripper's practicality and usability. Experimental validation confirms the EA-SoGripper's capabilities in adapting to object shapes, adjusting grasping stiffness, and controlling grasping force with high accuracy.
+abstract: Robotic links play a vital role in transmitting force and torque, ensuring precise robotic movements. Traditional rigid links, typically made from metals, pose a risk of injury in human robot interactions or damage to other objects due to their non-compliant and stiff nature, and have limited adaptability across various tasks. Variable stiffness robotic links (VSRLs) using HASEL actuators offer a solution, enhancing safety and adaptability while maintaining precision. This study introduces an electrohydraulic jammed VSRL utilizing a strip-shaped HASEL actuator, which stiffens upon application of high voltage, pressurizing dielectric liquid encased in a dielectric bladder to achieve stiffness variations up to 8.3 times. The VSRL, optimized by adjusting liquid volume and sealing patterns, is lightweight and compact, and eliminates the need for bulky pumps and motors. It also functions as a capacitor, enabling a self-sensing strategy to detect deformation. Experimental results demonstrate significant stiffness variability and effective load-bearing capabilities. Multi-VSRL assemblies further enhance stiffness for practical applications, including collaborative robotic links and wearable robots for joint support. A unique drone application showcases the VSRL's potential for energy-efficient aerial operations. The proposed VSRL represents a promising advancement in robotic technology, offering improved safety, adaptability, and functionality for diverse real-world applications.
 
 # Summary. An optional shortened abstract.
-summary: The Electroadhesion-Stiffening Self-Adaptive Soft Robotic Gripper (EA-SoGripper) introduced in this article addresses the limitations of traditional rigid robotic grippers by offering enhanced adaptability to objects of varying shapes, sizes, weights, and stiffness. Leveraging flexible electroadhesion (EA) clutches, the EA-SoGripper adjusts the tension of films to conform to the shape of grasped objects and regulate grasping stiffness through applied voltage control.
+summary: This study introduces an electrohydraulic jammed VSRL utilizing a strip-shaped HASEL actuator, which stiffens upon application of high voltage, pressurizing dielectric liquid encased in a dielectric bladder to achieve stiffness variations up to 8.3 times. The VSRL, optimized by adjusting liquid volume and sealing patterns, is lightweight and compact, and eliminates the need for bulky pumps and motors. It also functions as a capacitor, enabling a self-sensing strategy to detect deformation. Experimental results demonstrate significant stiffness variability and effective load-bearing capabilities.
 
 tags:
-- IEEE Transactions on Mechatronics (Under review)
+- SoRo (Under review)
 featured: true
 
 # links:
