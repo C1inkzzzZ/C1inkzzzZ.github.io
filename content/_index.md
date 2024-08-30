@@ -51,7 +51,7 @@ sections:
         featured_only: true
     design:
       view: article-grid
-      columns: 4
+      columns: 6
   - block: collection
     content:
       title: Recent Publications
