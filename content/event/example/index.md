@@ -4,7 +4,7 @@ title: Poster in IEEE 7th International Conference on Soft Robotics (RoboSoft 20
 event: RoboSoft 2024 Multimodal Workshop
 event_url: https://soft.robotics.umich.edu/workshop/
 
-location: Hugo Blox Builder HQ
+location: Hard Rock Hotel
 address:
   street: ''
   city: San Diego
@@ -43,7 +43,7 @@ image:
 #    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
-url_slides: 'https://slideshare.net'
+url_slides: 'https://www.slideshare.net/slideshow/a-multimodal-soft-gripper-with-vari-pptx/271432242'
 url_video: ''
 
 # Markdown Slides (optional).
