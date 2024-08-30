@@ -1,28 +1,28 @@
 ---
-title: Example Talk
+title: Poster in IEEE 7th International Conference on Soft Robotics (RoboSoft 2024) 
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: RoboSoft 2024 Multimodal Workshop
+event_url: https://soft.robotics.umich.edu/workshop/
 
 location: Hugo Blox Builder HQ
 address:
-  street: 450 Serra Mall
-  city: Stanford
+  street: ''
+  city: San Diego
   region: CA
-  postcode: '94305'
+  postcode: ''
   country: United States
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: A Multimodal Soft Gripper with Variable Stiffness and Variable Gripping Range Based on MASH Actuator.
+abstract: 'we introduce a novel soft gripper that offers variable stiffness, an adjustable gripping range, and multifunctionality. The MASH actuator based soft gripper can expand its gripping range up to threefold compared to the original configuration and ensures secure grip by enhancing stiffness when handling heavy objects. Moreover, it supports multitasking gripping through specific gripping strategy control.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2024-04-14T08:30:00Z'
+date_end: '2024-04-14T17:30:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2024-08-030T00:00:00Z'
 
 authors:
   - admin
@@ -41,10 +41,10 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: 'https://github.com'
+url_code: ''
 url_pdf: ''
 url_slides: 'https://slideshare.net'
-url_video: 'https://youtube.com'
+url_video: ''
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -58,18 +58,5 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-  - example
+projects = []
 ---
-
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
-
-Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
