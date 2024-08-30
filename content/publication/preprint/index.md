@@ -3,6 +3,9 @@ title: "Single-motor Ultraflexible Robotics (SMUFR) Humanoid Hand"
 authors:
 - Q.Xiong*
 - admin*
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 date: "2024-06-20T00:00:00Z"
 doi: ""
 
@@ -22,7 +25,8 @@ abstract: Humanoid robotic hands have significant potential in easing human burd
 joints with bidirectional bending compliance that ensure safety during human-robot interaction. Despite its light weight of only 363 g without remote transmission and actuation components, the SMUFR hand can grasp and support loads of up to 4.2 kg in various orientations, manipulate objects of different sizes and shapes, and even operate underwater. Of particular note is the SMUFR hand's lightweight and compact one-to-more actuation system, comprising six rotary pneumatic clutches (RPC) for six active Degrees of Freedom (DoFs), all powered by a single motor. Each RPC, weighing 75 g, can exert up to 23 N force on the tendon. This innovative transmission system distributes the power of a single motor across five fingers and holds potential for configuring additional RPCs. We also integrated all the components on a compact wearable vest for potential mobile humanoid robotic applications. Additionally, a mathematical model was developed to predict tendon force and joint bending using the constant curvature deformation hypothesis.Experimental validation demonstrates the durability of both the RPC and the beam-based fingers of the SMUFR hand, which are capable of enduring up to 22,000 and 30,000 cycles, respectively.
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: Humanoid robotic hands have significant potential in easing human burden and augmenting human labour. This paper introduces the SMUFR hand, a compliant and dexterous robotic humanoid hand powered by tendon-driven mechanisms, and features flexible beam-based bending joints serving as rotary 
+joints with bidirectional bending compliance that ensure safety during human-robot interaction.
 
 tags:
 - IEEE Transactions on Medical Robotics and Bioncs
