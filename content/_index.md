@@ -65,13 +65,13 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Academic Presentations
       filters:
         folders:
           - event
     design:
       view: article-grid
-      columns: 1
+      columns: 3
   - block: collection
     id: news
     content:
