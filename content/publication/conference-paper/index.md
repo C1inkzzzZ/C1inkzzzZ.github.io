@@ -46,7 +46,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1002/advs.202308033
+url_pdf: https://doi.org/10.1002/advs.202308033
 url_code: ''
 url_dataset: ''
 url_poster: ''
