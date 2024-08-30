@@ -19,8 +19,8 @@ publishDate: "2024-08-30T00:00:00Z"
 publication_types: ["Under Review"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE Transactions on Mechatronics (Under review)"
-publication_short: "IEEE TMECH (Under review)"
+publication: "IEEE Transactions on Mechatronics (Major revision)"
+publication_short: "IEEE TMECH (Major revision)"
 
 abstract: The Electroadhesion-Stiffening Self-Adaptive Soft Robotic Gripper (EA-SoGripper) introduced in this article addresses the limitations of traditional rigid robotic grippers by offering enhanced adaptability to objects of varying shapes, sizes, weights, and stiffness. Leveraging flexible electroadhesion (EA) clutches, the EA-SoGripper adjusts the tension of films to conform to the shape of grasped objects and regulate grasping stiffness through applied voltage control. A novel mathematical model of the gripper's load capacity with different grasping stiffness levels provides valuable insight into its performance capabilities. To ensure grasp safety and precision, the EA-SoGripper integrates a real-time force sensor for monitoring grasping power and deploys a feedback control algorithm to regulate force accurately. Furthermore, a portable and cost-effective AC high-voltage power supply system is developed, enhancing the gripper's practicality and usability. Experimental validation confirms the EA-SoGripper's capabilities in adapting to object shapes, adjusting grasping stiffness, and controlling grasping force with high accuracy.
 
