@@ -28,7 +28,7 @@ abstract: Soft pneumatic actuators with integrated strainlimiting layers have em
 summary: We introduce a novel soft gripper that offers variable stiffness, an adjustable gripping range, and multifunctionality. The MASH actuatorbased soft gripper can expand its gripping range up to threefold compared to the original configuration and ensures secure grip by enhancing stiffness when handling heavy objects. Moreover, it supports multitasking gripping through specific gripping strategy control.
 
 tags:
-- Robosoft
+- IEEE Workshop in Robosoft
 featured: true
 
 # links:
