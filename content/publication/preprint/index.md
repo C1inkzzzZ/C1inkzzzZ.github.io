@@ -18,8 +18,8 @@ publishDate: "In Press"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "IEEE Transactions on Medical Robotics and Bioncs"
+publication_short: "IEEE TMRB"
 
 abstract: Humanoid robotic hands have significant potential in easing human burden and augmenting human labour. This paper introduces the SMUFR hand, a compliant and dexterous robotic humanoid hand powered by tendon-driven mechanisms, and features flexible beam-based bending joints serving as rotary 
 joints with bidirectional bending compliance that ensure safety during human-robot interaction. Despite its light weight of only 363 g without remote transmission and actuation components, the SMUFR hand can grasp and support loads of up to 4.2 kg in various orientations, manipulate objects of different sizes and shapes, and even operate underwater. Of particular note is the SMUFR hand's lightweight and compact one-to-more actuation system, comprising six rotary pneumatic clutches (RPC) for six active Degrees of Freedom (DoFs), all powered by a single motor.
